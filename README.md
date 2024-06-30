@@ -15,22 +15,22 @@ In this task I have scraped the information of the recently concluded Lok Sabha 
 1. **Top Winning Parties**: Bharatiya Janata Party - BJP won with the majority of 240 Assembly Constituencies.
    ![image](https://github.com/Snehal-07/Election_Result_June2024/assets/103481881/0add7475-1f8d-4090-91ad-3c74ca52d0bf)
 
-3. **Closest Races**: United People’s Party, Liberal - UPPL
-Asom Gana Parishad - AGP
-Hindustani Awam Morcha (Secular) - HAMS
-Kerala Congress - KEC
-Revolutionary Socialist Party - RSP
-Nationalist Congress Party - NCP
-Voice of the People Party - VOTPP
-Zoram People’s Movement - ZPM
-Shiromani Akali Dal - SAD
-Rashtriya Loktantrik Party - RLTP
-Bharat Adivasi Party - BHRTADVSIP
-Sikkim Krantikari Morcha - SKM
-Marumalarchi Dravida Munnetra Kazhagam - MDMK
-Aazad Samaj Party (Kanshi Ram) - ASPKR
-Apna Dal (Soneylal) - ADAL
-AJSU Party - AJSUP
+3. **Closest Races**: United People’s Party, Liberal - UPPL, 
+Asom Gana Parishad - AGP, 
+Hindustani Awam Morcha (Secular) - HAMS, 
+Kerala Congress - KEC, 
+Revolutionary Socialist Party - RSP, 
+Nationalist Congress Party - NCP, 
+Voice of the People Party - VOTPP, 
+Zoram People’s Movement - ZPM, 
+Shiromani Akali Dal - SAD, 
+Rashtriya Loktantrik Party - RLTP, 
+Bharat Adivasi Party - BHRTADVSIP, 
+Sikkim Krantikari Morcha - SKM, 
+Marumalarchi Dravida Munnetra Kazhagam - MDMK, 
+Aazad Samaj Party (Kanshi Ram) - ASPKR, 
+Apna Dal (Soneylal) - ADAL, 
+AJSU Party - AJSUP, 
 All India Majlis-E-Ittehadul Muslimeen - AIMIM
 has won 1 Assembly Constituency each.
 
